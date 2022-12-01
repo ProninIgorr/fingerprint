@@ -1,6 +1,4 @@
-# fingerprint
-
-# source [Кейс 2 - Распознавание отпечатков пальцев (Go)](https://www.zavodit.ru/ru/profile/hackathons-participant/case/16)
+# fingerprint [Кейс 2 - Распознавание отпечатков пальцев (Go)](https://www.zavodit.ru/ru/profile/hackathons-participant/case/16)
 
 # Описание кейса
 ## Целевая аудитория: 
