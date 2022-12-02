@@ -19,4 +19,6 @@
 
 - __Dataset__:
   - source: [SOCOFing](https://www.kaggle.com/datasets/ruizgara/socofing)
-  - archive: [zip](https://drive.google.com/file/d/1FNjNfDlFAdQn2gM_w5XBBvslYWiR0Mev/view?usp=sharing)
+  - archive: 
+    - [zip full original](https://drive.google.com/file/d/1FNjNfDlFAdQn2gM_w5XBBvslYWiR0Mev/view?usp=sharing)
+    - [zip real head 100](https://drive.google.com/file/d/1-0MdvDUjwWeYoQ7uH7xceyYvSGIoe6tU/view?usp=share_link)
