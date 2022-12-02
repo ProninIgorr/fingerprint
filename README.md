@@ -18,4 +18,5 @@
   - Необходимо предоставить результаты времени работы алгоритма в зависимости от используемого числа ядер (потоков).
 
 - __Dataset__:
-  - [SOCOFing](https://www.kaggle.com/datasets/ruizgara/socofing)
+  - source: [SOCOFing](https://www.kaggle.com/datasets/ruizgara/socofing)
+  - archive: [zip](https://drive.google.com/file/d/1FNjNfDlFAdQn2gM_w5XBBvslYWiR0Mev/view?usp=sharing)
