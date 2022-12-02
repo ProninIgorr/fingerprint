@@ -1,12 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Apr 18 23:04:30 2016
-
-@author: utkarsh
-"""
-
-
-
 # RIDGESEGMENT - Normalises fingerprint image and segments ridge region
 #
 # Function identifies ridge regions of a fingerprint image and returns a

@@ -1,12 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Apr 22 02:51:53 2016
-
-@author: utkarsh
-"""
-
-
-
 # FREQEST - Estimate fingerprint ridge frequency within image block
 #
 # Function to estimate the fingerprint ridge frequency within a small block

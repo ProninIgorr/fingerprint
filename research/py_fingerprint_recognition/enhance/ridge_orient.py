@@ -1,12 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Apr 19 11:31:54 2016
-
-@author: utkarsh
-"""
-
-
-
 # RIDGEORIENT - Estimates the local orientation of ridges in a fingerprint
 #
 # Usage:  [orientim, reliability, coherence] = ridgeorientation(im, gradientsigma,...

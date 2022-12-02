@@ -1,11 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Apr 22 03:15:03 2016
-
-@author: utkarsh
-"""
-
-
 # RIDGEFILTER - enhances fingerprint image via oriented filters
 #
 # Function to enhance fingerprint image via oriented filters
