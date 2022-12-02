@@ -1,0 +1,5 @@
+__pycache__/
+.DS_Store
+model/
+contact_dataset/
+my_dataset/
