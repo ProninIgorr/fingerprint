@@ -246,5 +246,5 @@ dmypy.json
 # Cython debug symbols
 cython_debug/
 
-/research/dataset/soco_examples/
-/research/dataset/socofing_real_examples.zip
+/research/dataset/soco_examples/*
+*.zip
