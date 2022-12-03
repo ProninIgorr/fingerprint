@@ -11,7 +11,7 @@ import (
 
 	"github.com/ProninIgorr/fingerprint/internal/matrix"
 	"github.com/nfnt/resize"
-	"github.com/sergeymakinen/go-bmp"
+	"golang.org/x/image/bmp"
 )
 
 const maxDimension = 300

@@ -7,8 +7,6 @@ import (
 	"github.com/ProninIgorr/fingerprint/internal/matrix"
 )
 
-//TODO: Сделать кейс когда файл существует и формат картинки правильный
-
 func TestLoadImage(t *testing.T) {
 	type args struct {
 		fname string
