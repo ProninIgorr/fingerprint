@@ -7,6 +7,8 @@ import (
 	"github.com/ProninIgorr/fingerprint/internal/matrix"
 )
 
+//TODO: Сделать кейс когда файл существует и формат картинки правильный
+
 func TestLoadImage(t *testing.T) {
 	type args struct {
 		fname string
@@ -36,11 +38,12 @@ func TestLoadImage(t *testing.T) {
 
 			name: "existing file name and wrong image format",
 			args: args{
-				fname: "examples/example-input-1.jpg",
+				fname: "examples/example-input-1.txt",
 			},
 			want: nil,
 		},
 	}
+
 	for _, tt := range tests {
 		t.Run(tt.name, func(t *testing.T) {
 			if got := LoadImage(tt.args.fname); !reflect.DeepEqual(got, tt.want) {
