@@ -1,0 +1,17 @@
+log:
+  level: debug
+  format: text
+  file: log.txt
+trace:
+  file: trace.out
+
+fingers:
+  input_dir: "inputs"
+  output_dir: "outputs"
+  report_dir: "reports"
+  image:
+    format: "*.bmp"
+    width: 96
+    height: 103
+
+stats_update_rate: 2s
